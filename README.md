@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ramon-angosto
-- 👀 I’m interested in Computer Vision, Machine learning, Robotics and 3D Printing
-- 🌱 I’m currently learning Swift and Unity 3D
-- 💞️ I’m looking to collaborate on Computer vision projects
-- 📫 How to reach me ramon-angosto@hotmail.com
+# Ramon Angosto Artigues
 
-<!---
-ramon-angosto/ramon-angosto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ML Researcher focused on applied machine learning, computer vision, generative AI, and adaptive ML pipelines for industrial systems.
+
+Currently working on AI for additive manufacturing, including data-driven process optimization, synthetic data generation, and computer vision workflows.
+
+Interests:
+- Generative AI and multimodal learning
+- Computer vision
+- ML pipelines and experiment design
+- Industrial AI and additive manufacturing
+- LLM pre-training and AI safety
